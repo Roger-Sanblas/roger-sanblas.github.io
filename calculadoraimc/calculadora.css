@@ -10,5 +10,9 @@
 } 
 
 h2 {
-    background-color:brown;
+    background-color:blue;
+}
+
+#boton-calcular {
+    text-align: center;
 }
