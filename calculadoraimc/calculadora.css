@@ -13,6 +13,6 @@
     color:blue;
 }
 
-#boton-calcular {
+div.boton_calcular {
     width: 33.3%;
 }
